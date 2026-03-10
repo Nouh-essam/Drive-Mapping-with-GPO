@@ -44,11 +44,11 @@ This allows users to automatically receive the correct network drive based on th
 
 ## Screenshots
 
+### Group Policy Creation
+![gpo-creation.png](gpo-creation.png
+
 ### Drive Mapping Configuration
 ![drive-mapping.png](drive-mapping.png)
-
-### Group Policy Creation
-![gpo-creation.png](gpo-creation.png)
 
 
 ### Item Level Targeting
