@@ -51,8 +51,8 @@ This allows users to automatically receive the correct network drive based on th
 ![gpo-creation.png](gpo-creation.png)
 
 
-### HR Drive on Client
-![hr-drive-client.png](hr-drive-client.png)
+### Item Level Targeting
+![item-level-targeting.png](item-level-targeting.png)
 
 
 ### HR Shared Folder
