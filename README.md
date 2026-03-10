@@ -47,11 +47,13 @@ This allows users to automatically receive the correct network drive based on th
 ### Drive Mapping Configuration
 ![drive-mapping.png](drive-mapping.png)
 
+### Group Policy Creation
+![gpo-creation.png](gpo-creation.png)
+
+
 ### HR Drive on Client
 ![hr-drive-client.png](hr-drive-client.png)
 
-### Group Policy Editor
-![gpo-editor.png](gpo-editor.png)
 
 ### HR Shared Folder
 ![hr-shared-folder.png](hr-shared-folder.png)
